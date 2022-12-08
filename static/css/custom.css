@@ -1,0 +1,232 @@
+header.bnt {
+    background-image: url('/images/stack.jpg');
+    background-size: cover;
+}
+.top-bar {
+    height: 40px !important;
+    background-color: #012d6c !important;
+    width: 100% !important;
+    padding-right: 50px;
+    padding-top: 7px;
+}
+.top-bar .col {
+    text-align: right;
+}
+.nav111 li.list.f5.f4-ns.fw4.dib.pr3 {
+    margin-left: 30px;
+}
+.signup{
+    background-color: #119fe3;
+    padding: 3px 12px !important;
+    border-radius: 20px;
+}
+button {
+    border-style: unset;
+}
+.block-4th p.ftr-txt1 {
+    margin-top: -20px;
+}
+.top-bar .col a.link.text {
+    color: #fff !important;
+    padding-right:10px;
+        text-transform: uppercase;
+}
+p.txt {
+    color: #fff !important;
+    padding: 10px 10px !important;
+    text-align: left;
+}
+.nav111 li a {
+    text-transform: uppercase;
+    font-size: 17px !important;
+}
+img.logo {
+    float: left;
+    margin: 1em 3em;
+}
+.col-md-3.cwdth4 {
+    display: inline-grid;
+    width: 24%;
+    text-align: center;
+}
+.blue-color-img {
+    margin-top: -8em;
+}
+section#hero {
+    padding-bottom: 0px !important;
+}
+.block-4th figure.image.is-3by2 {
+    margin-bottom: 0px;
+}
+section.background-imag h2 {
+    color: #fff; 
+}
+section.background-imag p {
+    color: #fff;
+}
+#hero p {
+    font-size: 16px !important;
+    margin-top: -7px;
+}
+section.block-4th {
+    background-color: #fff !important;
+}
+.top-bar .col.col-md-12.me-md-12.container {
+    max-width: 1260px;
+}
+section.background-imag .frst-con {
+    background-size: cover !important;
+    height: 380px;
+}
+section.block-4th .container {
+    width: 800px;
+}
+section.background-imag {
+    margin-top: 20px;
+}
+main.pb7 {
+    padding-bottom: 50px !important;
+}
+figure.image.is-3by2 {
+    text-align: center;
+}
+.col-md-4.cwdth4 {
+    display: inline-grid;
+    width: 32%;
+    text-align: center;
+}
+section.block-price .container {
+    margin-top: -8em;
+}
+.block-price p.ftr-txt1 {
+    margin-bottom: 0px;
+}
+.block-price figure.image.is-3by2 {
+    margin-bottom: 0px;
+}
+.row.back {
+  background-image: ('{{"/images/stack.jpg" | relURL }}') !important;
+    background-size: cover;
+    width: 100% !important;
+}
+.container.main-banner p {
+    margin-bottom: 3px;
+    color: #fff;
+}
+h2.botom-baner {
+    color: #fff;
+    margin-bottom: 20px;
+}
+.container.main-banner {
+    padding-top: 5em;
+    padding-bottom: 7em;
+    padding-left: 6em;
+}
+.main-banner button {
+    background-color: #012d6c;
+    color: #fff;
+    padding: 6px 30px;
+    border-radius: 20px;
+    border-color: #012d6c;
+    margin-top: 20px;
+}
+.container.privaccy-made {
+    vertical-align: middle;
+    width: 920px;
+    max-width: 100%;
+    padding-top: 5em;
+}
+footer.bg-black.bottom-0.w-100.pa3 {
+    background-color: #012d6c !important;
+    height: 300px !important;
+}
+
+.ftr-txt {
+    color: #fff !important;
+    text-align: left !important;
+    font-size: 16px !important;
+    text-decoration: unset !important;
+}
+.foter a.ftr-txt {
+    line-height: 28px;
+}
+a {
+    color: var(--bs-link-color);
+    text-decoration: none !important;
+}
+.col-md-4.cwdth1 {
+    text-align: right !important;
+}
+a.ftr-txt {
+    text-decoration: none !important;
+}
+
+h6.btn-text {
+    color: #fff !important;
+    font-size: 22px;
+    text-transform: capitalize;
+    margin-top: 30px;
+    font-weight: normal;
+}
+
+.row.foter {
+
+    margin-top: 50px !important;
+}
+
+.col-md-3.cwdth {
+    width: 22%;
+}
+
+.col-md-1.cwdth1 {
+    width: 11% !important;
+}
+
+p.ftr-txt {
+    margin: 16px 0px;
+}
+
+.pvr-text3 {
+    margin: 50px 0px;
+    font-size: 30px;
+    color: #fff !important;
+}
+
+button.bnt {
+    padding: 6px 21px;
+    border-radius: 22px;
+    margin: 60px 16px;
+}
+
+span.pvr-text3 {
+    font-size: 23px;
+}
+
+
+@media only screen and (max-width: 768px) {
+section.block-4th .container {
+    width: 100%;
+}
+.col-md-3.cwdth4 {
+    display: block;
+    margin: 0 auto;
+    width: 100%;
+}
+section.background-imag .frst-con {
+    background-size: cover !important;
+    height: 460px;
+}
+section.block-price .container {
+    margin-top: -4em;
+}
+footer.bg-black.bottom-0.w-100.pa3 {
+    background-color: #012d6c !important;
+    height: auto !important;
+}
+.col-md-1.cwdth1 {
+    width: 100% !important;
+    display: block !important;
+    text-align: center;
+}
+
+    }
